@@ -1,6 +1,16 @@
-# 💫 About Me:
-👋 About Me<br>First-year CS student building real systems.<br>Currently developing Robo TCG — a Roblox-based trading card game focused on player economy, grading systems, and scalable backend architecture.<br>Interested in game systems, backend design, and clean problem solving.<br><br>🚀 Tech<br>TypeScript • JavaScript • Python • Lua • React • Roblox Studio<br>DSA • System Thinking • Data Persistence<br><br>🌱 Learning<br>Backend architecture • System design • Multiplayer systems
+## 💫 About Me:
+👋 About Me
+First-year CS student building real systems.
+Currently developing NotesLite — a visual workspace app for capturing quick notes,
+organizing them into boards and canvases, and keeping workspaces synced across devices.
+Interested in product design, frontend systems, and scalable full-stack architecture.
 
+🚀 Tech
+TypeScript • JavaScript • Python • Lua • React • Next.js • Roblox Studio
+DSA • System Thinking • Data Persistence
+
+🌱 Learning
+Backend architecture • System design • Multiplayer systems
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UdrW8JYWzb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehxnind) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rehan-mehta-31039a362) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/rorehxn) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@RehxNM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rehanmehta@gmail.com) 
