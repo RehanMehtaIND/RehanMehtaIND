@@ -51,24 +51,7 @@ Currently developing **NotesLite** — a visual workspace app for capturing quic
 
 <br/>
 
-## 📊 GitHub, In Motion
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RehanMehtaIND&theme=react-dark&hide_border=true&area=true" />
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RehanMehtaIND&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanMehtaIND&theme=dark&hide_border=true&layout=compact" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=RehanMehtaIND&theme=dark&hide_border=true" />
-
-</div>
-
-### 🐍 The Snake Eats My Contribution Graph
+## 🐍 The Snake Eats My Contribution Graph
 
 <div align="center">
 
@@ -77,24 +60,6 @@ Currently developing **NotesLite** — a visual workspace app for capturing quic
 </div>
 
 > This one doesn't work out of the box — it needs a GitHub Action generating it on a schedule. Workflow file is below, drop it in and it'll animate within a day.
-
-<br/>
-
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RehanMehtaIND&theme=radical&no-frame=true&margin-w=4" />
-
-</div>
-
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=RehanMehtaIND&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</div>
 
 <br/>
 
