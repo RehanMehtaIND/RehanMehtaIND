@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rehan%20Mehta&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20real%20systems,%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://rehan.codes"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=First-year+CS+Student;Building+NotesLite+%E2%9C%A8;Frontend+%2B+Systems+Thinking;Roblox+%E2%86%92+Full-Stack+%E2%86%92+%3F%3F%3F" alt="Typing SVG" /></a>
+<a href="https://rehan.codes"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=2nd-year+CS+Student;Building+NotesLite+%E2%9C%A8;Frontend+%2B+Systems+Thinking;Roblox+%E2%86%92+Full-Stack+%E2%86%92+%3F%3F%3F" alt="Typing SVG" /></a>
 
 <p>
 <a href="https://discord.gg/UdrW8JYWzb"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
